@@ -147,10 +147,11 @@ main .form .sub {
 }
 
 /* video */
-main .video {
+main #video video {
   display: flex;
   justify-content: center;
   text-align: center;
+  border-radius: 25px;
 }
 
 /* table */
