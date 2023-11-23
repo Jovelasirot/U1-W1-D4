@@ -109,6 +109,9 @@ ol {
 .containerList {
   border: 1px solid grey;
   padding: 0rem;
+  background: rgb(190, 190, 190);
+  border-radius: 4px;
+  line-height: 30px;
 }
 
 /* newsletter */
